@@ -44,7 +44,20 @@ Transformify allows users to upload an image, segment it into predefined classes
 
 ---
 
+## **Example**
+
+### Input Image:
+![Input Image](./TestImages/sourceImage.png)
+
+### Segmented Image:
+![Segmented Image](./TestImages/mask.png)
+
+### Transformed Image:
+![Transformed Image](./TestImages/generatedImage.png)
+
+
 ## **Installation**
+## **Usage**
 
 1. **YET TO BE DEPLOYED**
 
