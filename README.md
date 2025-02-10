@@ -8,14 +8,10 @@
 
 1. [Overview](#overview)
 2. [Tech Stack](#tech-stack)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Example](#example)
-6. [Training](#training)
-7. [Results](#results)
-8. [Deployment](#deployment)
-9. [Contributing](#contributing)
-10. [License](#license)
+3. [Example](#example)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Deployment](#deployment)
 
 ---
 
@@ -58,6 +54,7 @@ Transformify allows users to upload an image, segment it into predefined classes
 
 ## **Installation**
 ## **Usage**
+## **Deployment**
 
-1. **YET TO BE DEPLOYED**
+**YET TO BE DEPLOYED**
 
