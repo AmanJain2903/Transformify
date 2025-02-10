@@ -51,6 +51,8 @@ Transformify allows users to upload an image, segment it into predefined classes
 ### Transformed Image:
 ![Transformed Image](./TestImages/generatedImage.png)
 
+### Prompt : "A photo of a person wearing green pants with military camouflage pattern"
+
 
 ## **Installation**
 ## **Usage**
